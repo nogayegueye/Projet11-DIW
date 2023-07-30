@@ -1,0 +1,43 @@
+.input-wrapper-edit {
+    display: flex;
+    text-align: left;
+    margin-bottom: 1rem;
+  }
+   .sign-in-content-edit {
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: white;
+    width: 80%;
+    margin: 3rem auto;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .button-edit{
+    display: flex;
+  }
+  #First-text-edit{
+    margin-left: 1rem;
+    background-color: #D3D3D3;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 25px;
+    color: #f6f6f6;
+  }
+  #Last-text-edit{
+    margin-left: 1rem;
+    background-color: #D3D3D3;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 25px;
+    color: #f6f6f6;
+  }
+  #username-edit{
+    margin-left: 1rem;
+    border-radius: 5px;
+    border: 1px solid black;
+    height: 25px;
+    
+
+  }
